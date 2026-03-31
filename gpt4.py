@@ -11,7 +11,7 @@
 import streamlit as st # importar o streamlit
 from openai import OpenAI
 
-modelo_ia = OpenAI(api_key='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')
+modelo_ia = OpenAI(api_key='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')
 
 st.write('# ChatBot Pimentel') # titulo do chatbot, a hashtag deixa o titulo maior
 
